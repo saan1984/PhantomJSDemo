@@ -1,0 +1,9 @@
+{
+  "name": "phantomjs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "phantomjs": "^1.9.18"
+  }
+}
